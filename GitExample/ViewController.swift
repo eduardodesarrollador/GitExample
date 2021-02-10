@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        print("Este es un proyecto de ejemplo para ver el funcionamiento de un repositorio git")
     }
 
 
